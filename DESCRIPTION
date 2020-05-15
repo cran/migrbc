@@ -1,7 +1,7 @@
 Package: migrbc
 Type: Package
 Title: Production Rules Based Classification of Migration
-Version: 2.0.8
+Version: 2.0.9
 URL: https://github.com/statisticsnz/migrbc,
         https://statisticsnz.github.io/migrbc
 BugReports: https://github.com/statisticsnz/migrbc/issues
@@ -41,7 +41,7 @@ Collate: 'RcppExports.R' 'check_functions.R' 'plot_mig_hist.R'
         'pre_process.R' 'resolve_data.R' 'resolve_data_with_error.R'
         'run_rbc.R' 'utility_functions.R' 'migrbc.R'
 VignetteBuilder: knitr
-Packaged: 2020-05-08 04:28:08 UTC; lchen
+Packaged: 2020-05-15 00:04:46 UTC; lchen
 Maintainer: Leshi Chen <leshi.chen@stats.govt.nz>
 Repository: CRAN
-Date/Publication: 2020-05-12 09:40:02 UTC
+Date/Publication: 2020-05-15 15:05:51 UTC
